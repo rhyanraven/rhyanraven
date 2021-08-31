@@ -1,5 +1,6 @@
 ## Olá, Sou o Raven!👋
 
+- 🎓 Curso informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
 - ⚡ Trabalho atualmente com Design Gráfico
 - 👨‍💻 Estou estudando para ser um Dev. Front-End
 - 👾 Nomes: Podem me chamar de Rhyan ou Raven
